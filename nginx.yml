@@ -1,4 +1,4 @@
--name : install and start the nginx
+-name: install and start the nginx
  hosts: webservers
  become: true
  tasks:
